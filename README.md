@@ -1,4 +1,3 @@
-# represent
-Representative bureaucracy
+# Representative bureaucracy
 
 Data
