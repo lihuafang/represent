@@ -7,5 +7,8 @@ Data and code for replication
    [R code for replicating the recycling experiment](https://github.com/lihuafang/represent/blob/main/emgergency.R)
    
 
-2. Data for replicating the emgergency preparedness experiment 
+2. [Data for replicating the emgergency preparedness experiment]
+
+   [R code for replicating the emgergency preparedness experiment]
+
 
